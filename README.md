@@ -1,10 +1,8 @@
 ### Olá! Eu sou Italo Nogueira. 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-nogueira-morais-11aa15189/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italonogm/)
 
 - 🔭 Atualmente curso MBA em Data Science & Analytics pela USP/ESALQ
-- 🌱 Eu atualmente estou aprendendo Python e R
 - 💬 Me pergunte sobre: Python e R
 - 📫 Me encontre em: italonogueira31@gmail.com
 - 😄 Pronomes: ele/dele
