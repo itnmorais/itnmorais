@@ -1,6 +1,6 @@
 ### Olá! Eu sou Italo Nogueira. 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-nogueira-morais-11aa15189/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italonogm/)
+
 
 - 🔭 Atualmente curso MBA em Data Science & Analytics pela USP/ESALQ
 - 💬 Me pergunte sobre: Python e R
