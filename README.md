@@ -5,7 +5,7 @@
 - 🔭 Atualmente curso MBA em Data Science & Analytics pela USP/ESALQ
 - 💬 Me pergunte sobre: Python e R
 - 📫 Me encontre em: italonogueira31@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele/dele/he/him
 
 ![Nogueira Github Stats](https://github-readme-stats.vercel.app/api?username=itnmorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 <div style="display: inline_block"><br>
